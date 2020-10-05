@@ -1,0 +1,1968 @@
+Creating script environments for _cfx_internal
+Found new resource AnnonForFxController in C:/ParadiseCity_v2\server-data/resources//AnnonForFxController
+Found new resource async in C:/ParadiseCity_v2\server-data/resources//async
+Found new resource DiscordWhitelist in C:/ParadiseCity_v2\server-data/resources//DiscordWhitelist
+Found new resource discord_perms in C:/ParadiseCity_v2\server-data/resources//discord_perms
+Found new resource mysql-async in C:/ParadiseCity_v2\server-data/resources//mysql-async
+Found new resource monitor in C:\ParadiseCity_v2\artifact\/citizen//system_resources//monitor
+Found new resource webadmin in C:\ParadiseCity_v2\artifact\/citizen//system_resources//webadmin
+Found new resource electric-skateboard in C:/ParadiseCity_v2\server-data/resources//[carmodding]/electric-skateboard
+Found new resource mpheist3 in C:/ParadiseCity_v2\server-data/resources//[carmodding]/mpheist3
+Found new resource mpsum in C:/ParadiseCity_v2\server-data/resources//[carmodding]/mpsum
+Found new resource mpvinewood in C:/ParadiseCity_v2\server-data/resources//[carmodding]/mpvinewood
+Found new resource paradise_vehicles in C:/ParadiseCity_v2\server-data/resources//[carmodding]/paradise_vehicles
+Found new resource yaluxe in C:/ParadiseCity_v2\server-data/resources//[carmodding]/yaluxe
+Found new resource esx_addons_gcphone in C:/ParadiseCity_v2\server-data/resources//[crewphone]/esx_addons_gcphone
+Found new resource gcphone in C:/ParadiseCity_v2\server-data/resources//[crewphone]/gcphone
+Found new resource xsound in C:/ParadiseCity_v2\server-data/resources//[crewphone]/xsound
+Found new resource EasyAdmin in C:/ParadiseCity_v2\server-data/resources//[essential]/EasyAdmin
+Found new resource esx_mapper in C:/ParadiseCity_v2\server-data/resources//[essential]/esx_mapper
+Found new resource es_extended in C:/ParadiseCity_v2\server-data/resources//[essential]/es_extended
+Found new resource cron in C:/ParadiseCity_v2\server-data/resources//[esx]/cron
+Found new resource basic-gamemode in C:/ParadiseCity_v2\server-data/resources//[gamemodes]/basic-gamemode
+Found new resource chat in C:/ParadiseCity_v2\server-data/resources//[gameplay]/chat
+Found new resource chat-theme-gtao in C:/ParadiseCity_v2\server-data/resources//[gameplay]/chat-theme-gtao
+Found new resource chatthemecivlifechat in C:/ParadiseCity_v2\server-data/resources//[gameplay]/chatthemecivlifechat
+Found new resource esx_rpchat in C:/ParadiseCity_v2\server-data/resources//[gameplay]/esx_rpchat
+Found new resource playernames in C:/ParadiseCity_v2\server-data/resources//[gameplay]/playernames
+Found new resource screenshot-basic in C:/ParadiseCity_v2\server-data/resources//[local]/screenshot-basic
+Found new resource mapmanager in C:/ParadiseCity_v2\server-data/resources//[managers]/mapmanager
+Found new resource spawnmanager in C:/ParadiseCity_v2\server-data/resources//[managers]/spawnmanager
+Found new resource bob74_ipl in C:/ParadiseCity_v2\server-data/resources//[mappings]/bob74_ipl
+Found new resource nwx_mlo in C:/ParadiseCity_v2\server-data/resources//[mappings]/nwx_mlo
+Found new resource moddings_paradise in C:/ParadiseCity_v2\server-data/resources//[moddings]/moddings_paradise
+Found new resource firemods in C:/ParadiseCity_v2\server-data/resources//[nawax]/firemods
+Found new resource nwx_core in C:/ParadiseCity_v2\server-data/resources//[nawax]/nwx_core
+Found new resource nwx_seats in C:/ParadiseCity_v2\server-data/resources//[nawax]/nwx_seats
+Found new resource nwx_utils in C:/ParadiseCity_v2\server-data/resources//[nawax]/nwx_utils
+Found new resource nwx_weapons in C:/ParadiseCity_v2\server-data/resources//[nawax]/nwx_weapons
+Found new resource nwx_weaponshop in C:/ParadiseCity_v2\server-data/resources//[nawax]/nwx_weaponshop
+Found new resource troll_menu in C:/ParadiseCity_v2\server-data/resources//[nawax]/troll_menu
+Found new resource vMenu in C:/ParadiseCity_v2\server-data/resources//[nawax]/vMenu
+Found new resource baseevents in C:/ParadiseCity_v2\server-data/resources//[system]/baseevents
+Found new resource hardcap in C:/ParadiseCity_v2\server-data/resources//[system]/hardcap
+Found new resource rconlog in C:/ParadiseCity_v2\server-data/resources//[system]/rconlog
+Found new resource runcode in C:/ParadiseCity_v2\server-data/resources//[system]/runcode
+Found new resource scoreboard in C:/ParadiseCity_v2\server-data/resources//[system]/scoreboard
+Found new resource sessionmanager in C:/ParadiseCity_v2\server-data/resources//[system]/sessionmanager
+Found new resource sessionmanager-rdr3 in C:/ParadiseCity_v2\server-data/resources//[system]/sessionmanager-rdr3
+Found new resource bb-dices in C:/ParadiseCity_v2\server-data/resources//[test]/bb-dices
+Found new resource example-loadscreen in C:/ParadiseCity_v2\server-data/resources//[test]/example-loadscreen
+Found new resource fivem in C:/ParadiseCity_v2\server-data/resources//[test]/fivem
+Found new resource FiveM-Trains in C:/ParadiseCity_v2\server-data/resources//[test]/FiveM-Trains
+Found new resource frobski-fireworks in C:/ParadiseCity_v2\server-data/resources//[test]/frobski-fireworks
+Found new resource Sil-Nuke in C:/ParadiseCity_v2\server-data/resources//[test]/Sil-Nuke
+Found new resource horizon_autodrive in C:/ParadiseCity_v2\server-data/resources//[tools]/horizon_autodrive
+Found new resource hypnonema in C:/ParadiseCity_v2\server-data/resources//[tools]/hypnonema
+Found new resource InteractSound in C:/ParadiseCity_v2\server-data/resources//[tools]/InteractSound
+Found new resource mumble-voip in C:/ParadiseCity_v2\server-data/resources//[tools]/mumble-voip
+Found new resource rp-radio in C:/ParadiseCity_v2\server-data/resources//[tools]/rp-radio
+Found new resource loading in C:/ParadiseCity_v2\server-data/resources//[ui]/loading
+Found new resource trew_hud_ui in C:/ParadiseCity_v2\server-data/resources//[ui]/trew_hud_ui
+Found new resource esx_accessories in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_accessories
+Found new resource esx_addonaccount in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_addonaccount
+Found new resource esx_addoninventory in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_addoninventory
+Found new resource esx_barbershop in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_barbershop
+Found new resource esx_basicneeds in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_basicneeds
+Found new resource esx_billing in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_billing
+Found new resource esx_datastore in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_datastore
+Found new resource esx_identity in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_identity
+Found new resource esx_license in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_license
+Found new resource esx_optionalneeds in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_optionalneeds
+Found new resource esx_service in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_service
+Found new resource esx_skin in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_skin
+Found new resource esx_society in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_society
+Found new resource esx_societyfaction in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_societyfaction
+Found new resource esx_status in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/esx_status
+Found new resource instance in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/instance
+Found new resource skinchanger in C:/ParadiseCity_v2\server-data/resources//[esx]/[base]/skinchanger
+Found new resource esx_advancedgarage in C:/ParadiseCity_v2\server-data/resources//[esx]/[car]/esx_advancedgarage
+Found new resource esx_bennyscustom in C:/ParadiseCity_v2\server-data/resources//[esx]/[car]/esx_bennyscustom
+Found new resource esx_dmvschool in C:/ParadiseCity_v2\server-data/resources//[esx]/[car]/esx_dmvschool
+Found new resource esx_vehiclelock in C:/ParadiseCity_v2\server-data/resources//[esx]/[car]/esx_vehiclelock
+Found new resource RealisticVehicleFailure in C:/ParadiseCity_v2\server-data/resources//[esx]/[car]/RealisticVehicleFailure
+Found new resource esx_advancedholdup in C:/ParadiseCity_v2\server-data/resources//[esx]/[illegal]/esx_advancedholdup
+Found new resource esx_drugs in C:/ParadiseCity_v2\server-data/resources//[esx]/[illegal]/esx_drugs
+Found new resource esx_factions in C:/ParadiseCity_v2\server-data/resources//[esx]/[illegal]/esx_factions
+Found new resource esx_hangarfaction in C:/ParadiseCity_v2\server-data/resources//[esx]/[illegal]/esx_hangarfaction
+Found new resource esx_ambulancejob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_ambulancejob
+Found new resource esx_bennysjob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_bennysjob
+Found new resource esx_fuelerjob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_fuelerjob
+Found new resource esx_gouvjob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_gouvjob
+Found new resource esx_mechanicjob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_mechanicjob
+Found new resource esx_policejob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_policejob
+Found new resource esx_tabacjob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_tabacjob
+Found new resource esx_vehicleshop in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_vehicleshop
+Found new resource esx_vigneronjob in C:/ParadiseCity_v2\server-data/resources//[esx]/[jobs]/esx_vigneronjob
+Found new resource dpemotes in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/dpemotes
+Found new resource eden_accesories in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/eden_accesories
+Found new resource esx_adminplus in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/esx_adminplus
+Found new resource esx_advancedbanking in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/esx_advancedbanking
+Found new resource esx_doorlock in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/esx_doorlock
+Found new resource esx_hifi in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/esx_hifi
+Found new resource esx_mugging in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/esx_mugging
+Found new resource esx_simpletp in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/esx_simpletp
+Found new resource esx_sit in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/esx_sit
+Found new resource jsfour-idcard in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/jsfour-idcard
+Found new resource krz_personalmenu in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/krz_personalmenu
+Found new resource rCivilProps in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/rCivilProps
+Found new resource RubyMission in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/RubyMission
+Found new resource xnTattoos in C:/ParadiseCity_v2\server-data/resources//[esx]/[others]/xnTattoos
+Found new resource HousingShells in C:/ParadiseCity_v2\server-data/resources//[esx]/[Propriete]/HousingShells
+Found new resource loaf_housing in C:/ParadiseCity_v2\server-data/resources//[esx]/[Propriete]/loaf_housing
+Found new resource pw-krapea in C:/ParadiseCity_v2\server-data/resources//[esx]/[Propriete]/pw-krapea
+Found new resource esx_clotheshop in C:/ParadiseCity_v2\server-data/resources//[esx]/[shops]/esx_clotheshop
+Found new resource Ruby_Shops in C:/ParadiseCity_v2\server-data/resources//[esx]/[shops]/Ruby_Shops
+Found new resource esx_inventoryhud in C:/ParadiseCity_v2\server-data/resources//[esx]/[ui]/esx_inventoryhud
+Found new resource esx_inventoryhud_trunk in C:/ParadiseCity_v2\server-data/resources//[esx]/[ui]/esx_inventoryhud_trunk
+Found new resource esx_menu_default in C:/ParadiseCity_v2\server-data/resources//[esx]/[ui]/esx_menu_default
+Found new resource esx_menu_dialog in C:/ParadiseCity_v2\server-data/resources//[esx]/[ui]/esx_menu_dialog
+Found new resource esx_menu_list in C:/ParadiseCity_v2\server-data/resources//[esx]/[ui]/esx_menu_list
+Found new resource LS in C:/ParadiseCity_v2\server-data/resources//[gamemodes]/[maps]/LS
+Found new resource bennys in C:/ParadiseCity_v2\server-data/resources//[mappings]/[testmappings]/bennys
+Found new resource church in C:/ParadiseCity_v2\server-data/resources//[mappings]/[testmappings]/church
+Found new resource lafa2k_yakuza in C:/ParadiseCity_v2\server-data/resources//[mappings]/[testmappings]/lafa2k_yakuza
+Found new resource LMC in C:/ParadiseCity_v2\server-data/resources//[mappings]/[testmappings]/LMC
+Found new resource ls_black_white in C:/ParadiseCity_v2\server-data/resources//[mappings]/[testmappings]/ls_black_white
+Found new resource playboy in C:/ParadiseCity_v2\server-data/resources//[mappings]/[testmappings]/playboy
+Found new resource webpack in C:/ParadiseCity_v2\server-data/resources//[system]/[builders]/webpack
+Found new resource yarn in C:/ParadiseCity_v2\server-data/resources//[system]/[builders]/yarn
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for monitor
+Started resource monitor
+Creating script environments for chat
+Started resource chat
+Started resource chatthemecivlifechat
+Started resource spawnmanager
+Started resource basic-gamemode
+Started resource fivem
+Creating script environments for baseevents
+Started resource baseevents
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for discord_perms
+Started resource discord_perms
+Creating script environments for DiscordWhitelist
+Started resource DiscordWhitelist
+Started resource loading
+Creating script environments for yarn
+Started resource yarn
+Creating script environments for webpack
+Started resource webpack
+Creating script environments for screenshot-basic
+Started resource screenshot-basic
+Creating script environments for AnnonForFxController
+Started resource AnnonForFxController
+Started resource bob74_ipl
+[94mAsset nwx_mlo/bobo_prison_lobby_glass_texture.ytd uses 28.3 MiB of physical memory.[0m
+[94mAsset nwx_mlo/bobo_prison_lobby_shell.ydr uses 16.3 MiB of physical memory.[0m
+[94mAsset nwx_mlo/gabz_pillbox_textures_01.ytd uses 22.5 MiB of physical memory.[0m
+[94mAsset nwx_mlo/greenroom3.ydr uses 19.0 MiB of physical memory.[0m
+[94mAsset nwx_mlo/italy_texture.ytd uses 16.7 MiB of physical memory.[0m
+[94mAsset nwx_mlo/mararoom2.ydr uses 22.0 MiB of physical memory.[0m
+[94mAsset nwx_mlo/phxballas_interior_textures.ytd uses 20.0 MiB of physical memory.[0m
+Started resource nwx_mlo
+[93mAsset moddings_paradise/mp_m_freemode_01^jbib_diff_011_e_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset moddings_paradise/mp_m_freemode_01^lowr_diff_021_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01^lowr_diff_021_d_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01^lowr_diff_021_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01^task_diff_004_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01^task_diff_005_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_male_apt01^jbib_diff_002_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_male_apt01^lowr_diff_004_c_whi.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_male_apt01lowr_diff_004_a_whi.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_male_apt01lowr_diff_004_b_whi.ytd uses 32.0 MiB of physical memory.[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_003_u.ydd uses 56.0 MiB of virtual memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_b_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_c_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_d_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_g_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_i_uni.ytd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_bikerdlc_01^hand_diff_003_j_uni.ytd uses 32.0 MiB of physical memory.[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_b_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_c_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_d_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_e_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_f_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_g_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_h_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_01^jbib_diff_014_i_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_hair_01^hair_024_u.ydd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_hair_01^hair_032_u.ydd uses 32.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/mp_m_freemode_01_mp_m_gunrunning_hair_01^hair_033_u.ydd uses 32.0 MiB of physical memory.[0m
+[93mAsset moddings_paradise/surge.ytd uses 39.0 MiB of physical memory.[0m
+[94mAsset moddings_paradise/w_sg_pumpshotgun.ytd uses 24.0 MiB of physical memory.[0m
+Started resource moddings_paradise
+Creating script environments for mysql-async
+Started resource mysql-async
+Creating script environments for async
+Started resource async
+Creating script environments for es_extended
+Started resource es_extended
+Creating script environments for EasyAdmin
+Started resource EasyAdmin
+Creating script environments for vMenu
+Instantiated instance of script vMenuServer.BanManager.
+Instantiated instance of script vMenuServer.MainServer.
+Started resource vMenu
+Creating script environments for instance
+Started resource instance
+Started resource esx_menu_default
+Started resource esx_menu_list
+Started resource esx_menu_dialog
+Creating script environments for esx_datastore
+Started resource esx_datastore
+Creating script environments for esx_addonaccount
+Started resource esx_addonaccount
+Creating script environments for esx_addoninventory
+Started resource esx_addoninventory
+Creating script environments for esx_license
+Started resource esx_license
+Creating script environments for esx_billing
+Started resource esx_billing
+Creating script environments for esx_status
+Started resource esx_status
+Creating script environments for esx_basicneeds
+Started resource esx_basicneeds
+Creating script environments for esx_optionalneeds
+Started resource esx_optionalneeds
+Started resource skinchanger
+Creating script environments for esx_skin
+Started resource esx_skin
+Creating script environments for esx_accessories
+Started resource esx_accessories
+Creating script environments for esx_identity
+Started resource esx_identity
+Creating script environments for xnTattoos
+Started resource xnTattoos
+Creating script environments for cron
+Started resource cron
+Creating script environments for esx_society
+Started resource esx_society
+Creating script environments for esx_societyfaction
+Started resource esx_societyfaction
+Creating script environments for esx_service
+Started resource esx_service
+Creating script environments for esx_addons_gcphone
+Started resource esx_addons_gcphone
+Creating script environments for gcphone
+Started resource gcphone
+Creating script environments for xsound
+Started resource xsound
+Creating script environments for esx_factions
+Started resource esx_factions
+Creating script environments for esx_hangarfaction
+Started resource esx_hangarfaction
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Creating script environments for esx_advancedbanking
+Started resource esx_advancedbanking
+Creating script environments for esx_policejob
+Started resource esx_policejob
+Creating script environments for esx_advancedholdup
+Started resource esx_advancedholdup
+Creating script environments for esx_advancedgarage
+Started resource esx_advancedgarage
+Creating script environments for esx_vehiclelock
+Started resource esx_vehiclelock
+Creating script environments for esx_sit
+Started resource esx_sit
+Creating script environments for Ruby_Shops
+Started resource Ruby_Shops
+Creating script environments for esx_clotheshop
+Started resource esx_clotheshop
+Creating script environments for esx_barbershop
+Started resource esx_barbershop
+Creating script environments for nwx_weaponshop
+Started resource nwx_weaponshop
+Creating script environments for esx_vehicleshop
+Started resource esx_vehicleshop
+Creating script environments for esx_ambulancejob
+Started resource esx_ambulancejob
+Creating script environments for esx_gouvjob
+Started resource esx_gouvjob
+Creating script environments for esx_mechanicjob
+Started resource esx_mechanicjob
+Creating script environments for esx_vigneronjob
+Started resource esx_vigneronjob
+Creating script environments for esx_tabacjob
+Started resource esx_tabacjob
+Creating script environments for esx_fuelerjob
+Started resource esx_fuelerjob
+Creating script environments for esx_bennysjob
+Started resource esx_bennysjob
+Started resource HousingShells
+Creating script environments for loaf_housing
+Started resource loaf_housing
+Started resource pw-krapea
+Creating script environments for esx_dmvschool
+Started resource esx_dmvschool
+Creating script environments for esx_bennyscustom
+Started resource esx_bennyscustom
+Started resource RealisticVehicleFailure
+Started resource nwx_seats
+Creating script environments for trew_hud_ui
+Started resource trew_hud_ui
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+Creating script environments for esx_inventoryhud_trunk
+Started resource esx_inventoryhud_trunk
+Creating script environments for esx_rpchat
+Started resource esx_rpchat
+Creating script environments for esx_adminplus
+Started resource esx_adminplus
+Creating script environments for esx_mapper
+Started resource esx_mapper
+Creating script environments for dpemotes
+Started resource dpemotes
+Creating script environments for mumble-voip
+Started resource mumble-voip
+Started resource rp-radio
+Creating script environments for krz_personalmenu
+Started resource krz_personalmenu
+Creating script environments for jsfour-idcard
+Started resource jsfour-idcard
+Creating script environments for nwx_core
+[NWX_CORE] Ready
+Started resource nwx_core
+Creating script environments for nwx_utils
+Started resource nwx_utils
+Creating script environments for eden_accesories
+Started resource eden_accesories
+Creating script environments for InteractSound
+Started resource InteractSound
+Creating script environments for RubyMission
+Started resource RubyMission
+Creating script environments for hypnonema
+Instantiated instance of script Hypnonema.Server.ServerScript.
+Started resource hypnonema
+Creating script environments for esx_doorlock
+Started resource esx_doorlock
+Creating script environments for nwx_weapons
+Started resource nwx_weapons
+Creating script environments for esx_hifi
+Started resource esx_hifi
+Started resource esx_simpletp
+Creating script environments for esx_mugging
+Started resource esx_mugging
+[94mAsset paradise_vehicles/206c.yft uses 19.8 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/206c.ytd uses 35.5 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/206c_hi.yft uses 19.8 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/760li04.yft uses 21.9 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/760li04.ytd uses 58.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/G65.ytd uses 31.3 MiB of physical memory.[0m
+[93mAsset paradise_vehicles/acuransx.ytd uses 40.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/atv2.yft uses 19.1 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/audirs6tk.ytd uses 31.5 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/audirs6tk_hi.yft uses 17.1 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/bmci.yft uses 26.3 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/bmci.ytd uses 41.5 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/bmci_hi.yft uses 26.3 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/bmdrift+hi.ytd uses 40.5 MiB of physical memory.[0m
+[93mAsset paradise_vehicles/bmdrift.ytd uses 40.5 MiB of physical memory.[0m
+[93mAsset paradise_vehicles/bmw1.ytd uses 38.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/bmws.ytd uses 27.8 MiB of physical memory.[0m
+[91mAsset paradise_vehicles/btsupra94.ytd uses 74.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/c63coupe.yft uses 17.5 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/c63coupe.ytd uses 59.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/c63coupe_hi.yft uses 17.5 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/cla45sb.yft uses 20.0 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/cla45sb.ytd uses 86.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/cla45sb2.yft uses 20.0 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/cla45sb2.ytd uses 86.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset paradise_vehicles/cr250.ytd uses 35.5 MiB of physical memory.[0m
+[91mAsset paradise_vehicles/evo9.ytd uses 132.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/fxxk16.yft uses 23.3 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/fxxk16.ytd uses 42.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/fxxk16_hi.yft uses 23.3 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/ghispo2.ytd uses 82.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/gls63.yft uses 25.8 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/gls63.ytd uses 104.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/gls63_hi.yft uses 18.8 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/gt86lb.ytd uses 36.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/huracan.yft uses 27.3 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/huracan.ytd uses 28.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/huracan_hi.yft uses 27.3 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/integra750.ytd uses 20.5 MiB of physical memory.[0m
+[93mAsset paradise_vehicles/italia458.ytd uses 47.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/m5e60.yft uses 20.3 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/m5e60.ytd uses 16.5 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/m5e60_hi.yft uses 18.3 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/macla.yft uses 28.4 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/macla.ytd uses 62.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/macla_hi.yft uses 28.4 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/mers63c.yft uses 30.9 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/mers63c.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/mers63c_hi.yft uses 30.9 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/mgt.ytd uses 18.8 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/nh2r.ytd uses 22.0 MiB of physical memory.[0m
+[93mAsset paradise_vehicles/p1.ytd uses 34.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/p1_hi.yft uses 23.8 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/policetmax.yft uses 23.0 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/policetmax_hi.yft uses 23.0 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/r8v10.yft uses 19.8 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/r8v10.ytd uses 42.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/r8v10_hi.yft uses 19.8 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/ren_clio_5.ytd uses 34.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/ren_clio_5_hi.yft uses 16.3 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/rmodgt63.yft uses 18.3 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/rmodm3e36.ytd uses 22.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/rmodm4gts.yft uses 22.4 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/rmodm4gts.ytd uses 69.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/rmodm4gts_hi.yft uses 20.5 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/rmodrs7.yft uses 23.4 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/rmodrs7.ytd uses 19.5 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/rmodrs7_hi.yft uses 20.6 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/rmodskyline.ytd uses 19.5 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/rmodx6.yft uses 20.2 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/rmodx6_hi.yft uses 17.8 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/rs318.yft uses 32.5 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/rs318.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset paradise_vehicles/rs318_hi.yft uses 32.5 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/rs62.ytd uses 142.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[93mAsset paradise_vehicles/rt70.ytd uses 40.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/s500w222.yft uses 31.5 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/s500w222.ytd uses 72.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/s500w222_hi.yft uses 31.5 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/serv_electricscooter.yft uses 32.0 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/serv_electricscooter_hi.yft uses 32.0 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/supra2.yft uses 22.8 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/supra2.ytd uses 22.0 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/supra2_hi.yft uses 22.8 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/tmax2008.yft uses 18.0 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/tmax2008.ytd uses 16.5 MiB of physical memory.[0m
+[94mAsset paradise_vehicles/tmax2008_hi.yft uses 18.0 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/tmaxDX.yft uses 24.5 MiB of virtual memory.[0m
+[94mAsset paradise_vehicles/tmaxDX_hi.yft uses 24.5 MiB of virtual memory.[0m
+[91mAsset paradise_vehicles/wheel_abt_01.ydr uses 96.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/x6m.yft uses 30.5 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/x6m.ytd uses 48.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[94mAsset paradise_vehicles/x6m_hi.yft uses 22.1 MiB of virtual memory.[0m
+[93mAsset paradise_vehicles/z2879.ytd uses 41.5 MiB of physical memory.[0m
+Started resource paradise_vehicles
+Started resource lafa2k_yakuza
+Started resource LMC
+[94mAsset playboy/int_mafshell.ydr uses 18.5 MiB of physical memory.[0m
+Started resource playboy
+Started resource ls_black_white
+[94mAsset bennys/lr_supermod_txd.ytd uses 26.1 MiB of physical memory.[0m
+Started resource bennys
+Started resource church
+Creating script environments for FiveM-Trains
+Started resource FiveM-Trains
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+[ESX] READY
+esx_advancedgarage: Parking Vehicles on restart is currently set to false.
+CLES JOBS ET FACTIONS DELETE 
+DELETE COFFRE OWNED = 0
+[93mAuthenticating with Nucleus...[0m
+server thread hitch warning: timer interval of 972 milliseconds
+[32m[mysql-async] [SUCCESS][0m Database server connection established.
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [gcphone] [1075ms] DELETE FROM phone_messages WHERE transmitter = 'news' : []
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [es_extended] [1147ms] SELECT * FROM items : []
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [es_extended] [1202ms] SELECT * FROM jobs : []
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [esx_addonaccount] [1237ms] SELECT * FROM addon_account : []
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [es_extended] [1243ms] SELECT * FROM factions : []
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [nwx_core] [1234ms] SELECT name, label FROM jobs WHERE whitelisted = ? : [false]
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [esx_addoninventory] [1241ms] SELECT * FROM items : []
+
+dp Emotes (dpemotes) is up to date. ([32m173[0m)
+Permission system guild set to: ParadiseCity v2 (734343143788380160)
+[91m        fff                          
+[91m  cccc ff   xx  xx     rr rr    eee  
+[91mcc     ffff   xx       rrr  r ee   e 
+[91mcc     ff     xx   ... rr     eeeee  
+[91m ccccc ff   xx  xx ... rr      eeeee 
+                                     [0m
+[32mAuthenticated with cfx.re Nucleus: [0mhttps://mohamed-zoauri-zjkxxd.users.cfx.re/
+server thread hitch warning: timer interval of 198 milliseconds
+Found discord id: 284389513248243713
+Connexion: Nawax[0m
+server thread hitch warning: timer interval of 588 milliseconds
+server thread hitch warning: timer interval of 752 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Nawax[0m" has connected to the server with assigned player id 1
+FiveM-Trains: Player Nawax with id 1 will be the host for the trains
+Found discord id: 436304766000431111
+Connexion: Zipo PABLO[0m
+server thread hitch warning: timer interval of 241 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Zipo PABLO[0m" has connected to the server with assigned player id 2
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 2 player(s)
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 2 player(s)
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 2 player(s)
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+server thread hitch warning: timer interval of 163 milliseconds
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+server thread hitch warning: timer interval of 163 milliseconds
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+FiveM-Trains: Player Nawax with id 1 has quit. Looking for another host for the trains...
+FiveM-Trains: No host are available for the trains. Waiting for another player to join the server...
+[es_extended] [[32mINFO[0m] Saved player "John Gecko[0m"
+Stopping resource esx_drugs
+Creating script environments for esx_drugs
+Started resource esx_drugs
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+server thread hitch warning: timer interval of 166 milliseconds
+server thread hitch warning: timer interval of 177 milliseconds
+server thread hitch warning: timer interval of 204 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 112 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+server thread hitch warning: timer interval of 173 milliseconds
+sync thread hitch warning: timer interval of 168 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 112 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 112 milliseconds
+server thread hitch warning: timer interval of 168 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+network thread hitch warning: timer interval of 259 milliseconds
+sync thread hitch warning: timer interval of 2278 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Found discord id: 269177203386875905
+Connexion: Kayn O'connor[0m
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+server thread hitch warning: timer interval of 280 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Kayn O'connor[0m" has connected to the server with assigned player id 3
+FiveM-Trains: Player Kayn O'connor with id 3 will be the host for the trains
+FiveM-Trains: Player Kayn O'connor with id 3 has quit. Looking for another host for the trains...
+FiveM-Trains: No host are available for the trains. Waiting for another player to join the server...
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+Found discord id: 269177203386875905
+Connexion: Kayn O'connor[0m
+server thread hitch warning: timer interval of 300 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Kayn O'connor[0m" has connected to the server with assigned player id 4
+network thread hitch warning: timer interval of 151 milliseconds
+FiveM-Trains: Player Kayn O'connor with id 4 will be the host for the trains
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+FiveM-Trains: Player Kayn O'connor with id 4 has quit. Looking for another host for the trains...
+FiveM-Trains: No host are available for the trains. Waiting for another player to join the server...
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 755 milliseconds
+sync thread hitch warning: timer interval of 148 milliseconds
+network thread hitch warning: timer interval of 585 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Found discord id: 269177203386875905
+Connexion: Kayn O'connor[0m
+server thread hitch warning: timer interval of 286 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Kayn O'connor[0m" has connected to the server with assigned player id 5
+FiveM-Trains: Player Kayn O'connor with id 5 will be the host for the trains
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+FiveM-Trains: Player Kayn O'connor with id 5 has quit. Looking for another host for the trains...
+FiveM-Trains: No host are available for the trains. Waiting for another player to join the server...
+[es_extended] [[32mINFO[0m] Saved player "Kayn Oconnor[0m"
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+server thread hitch warning: timer interval of 162 milliseconds
+network thread hitch warning: timer interval of 286 milliseconds
+network thread hitch warning: timer interval of 166 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+server thread hitch warning: timer interval of 445 milliseconds
+server thread hitch warning: timer interval of 164 milliseconds
+sync thread hitch warning: timer interval of 110 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 310 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+network thread hitch warning: timer interval of 320 milliseconds
+server thread hitch warning: timer interval of 315 milliseconds
+network thread hitch warning: timer interval of 269 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+server thread hitch warning: timer interval of 286 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+server thread hitch warning: timer interval of 243 milliseconds
+sync thread hitch warning: timer interval of 258 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 271 milliseconds
+server thread hitch warning: timer interval of 254 milliseconds
+server thread hitch warning: timer interval of 284 milliseconds
+server thread hitch warning: timer interval of 416 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Found discord id: 267399617023311872
+Connexion: Carlos Cabana[0m
+server thread hitch warning: timer interval of 236 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Carlos Cabana[0m" has connected to the server with assigned player id 6
+[dp] [32mCarlos Cabana[0m got created!
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [esx_datastore] [1103ms] INSERT INTO datastore_data (name, owner, data) VALUES (?, ?, ?) : ["property","c63a152df9f3f8902378e34cb17277cc80e4a5cd","{}"]
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [esx_datastore] [1120ms] INSERT INTO datastore_data (name, owner, data) VALUES (?, ?, ?) : ["user_bags","c63a152df9f3f8902378e34cb17277cc80e4a5cd","{}"]
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [esx_datastore] [1119ms] INSERT INTO datastore_data (name, owner, data) VALUES (?, ?, ?) : ["user_bracelets","c63a152df9f3f8902378e34cb17277cc80e4a5cd","{}"]
+[33m[MariaDB:10.4.13-MariaDB] [WARNING][0m [esx_datastore] [1118ms] INSERT INTO datastore_data (name, owner, data) VALUES (?, ?, ?) : ["user_chain","c63a152df9f3f8902378e34cb17277cc80e4a5cd","{}"]
+FiveM-Trains: Player Carlos Cabana with id 6 will be the host for the trains
+[31m[MariaDB:10.4.13-MariaDB] [ERROR][0m [gcphone] An error happens for query "INSERT INTO twitter_accounts (identifier, username) VALUES (?, ?) : ["c63a152df9f3f8902378e34cb17277cc80e4a5cd"," "]": ER_DUP_ENTRY: Duplicate entry ' ' for key 'username'
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+esx_advancedgarage: c63a152df9f3f8902378e34cb17277cc80e4a5cd attempted to store an vehicle they don't own!
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+FiveM-Trains: Player Carlos Cabana with id 6 has quit. Looking for another host for the trains...
+FiveM-Trains: No host are available for the trains. Waiting for another player to join the server...
+[es_extended] [[32mINFO[0m] Saved player "Carlos Cabana[0m"
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 235 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+network thread hitch warning: timer interval of 336 milliseconds
+sync thread hitch warning: timer interval of 478 milliseconds
+server thread hitch warning: timer interval of 405 milliseconds
+server thread hitch warning: timer interval of 426 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 126 milliseconds
+sync thread hitch warning: timer interval of 119 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Steam authentication for Carlos Cabana[0m failed: Could not resolve host: api.steampowered.com - CURL error code 6 (Couldn't resolve host name)
+Steam authentication for Carlos Cabana[0m failed: Could not resolve host: api.steampowered.com - CURL error code 6 (Couldn't resolve host name)
+Found discord id: 267399617023311872
+Connexion: Carlos Cabana[0m
+Steam authentication for Carlos Cabana[0m failed: Could not resolve host: api.steampowered.com - CURL error code 6 (Couldn't resolve host name)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Steam authentication for Carlos Cabana[0m failed: Could not resolve host: api.steampowered.com - CURL error code 6 (Couldn't resolve host name)
+Steam authentication for Carlos Cabana[0m failed: getaddrinfo() thread failed to start
+ - CURL error code 6 (Couldn't resolve host name)
+Found discord id: 267399617023311872
+Connexion: Carlos Cabana[0m
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 279 milliseconds
+sync thread hitch warning: timer interval of 374 milliseconds
+sync thread hitch warning: timer interval of 228 milliseconds
+sync thread hitch warning: timer interval of 362 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Found discord id: 436304766000431111
+Connexion: Zipo PABLO[0m
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 126 milliseconds
+server thread hitch warning: timer interval of 202 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Zipo PABLO[0m" has connected to the server with assigned player id 7
+FiveM-Trains: Player Zipo PABLO with id 7 will be the host for the trains
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+server thread hitch warning: timer interval of 459 milliseconds
+server thread hitch warning: timer interval of 160 milliseconds
+FiveM-Trains: Player Zipo PABLO with id 7 has quit. Looking for another host for the trains...
+FiveM-Trains: No host are available for the trains. Waiting for another player to join the server...
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+Found discord id: 436304766000431111
+Connexion: Zipo PABLO[0m
+server thread hitch warning: timer interval of 177 milliseconds
+[es_extended] [[32mINFO[0m] A player with name "Zipo PABLO[0m" has connected to the server with assigned player id 8
+FiveM-Trains: Player Zipo PABLO with id 8 will be the host for the trains
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+server thread hitch warning: timer interval of 254 milliseconds
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 1 player(s)
+FiveM-Trains: Player Zipo PABLO with id 8 has quit. Looking for another host for the trains...
+FiveM-Trains: No host are available for the trains. Waiting for another player to join the server...
+[es_extended] [[32mINFO[0m] Saved player "Pablo Zipo[0m"
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+sync thread hitch warning: timer interval of 122 milliseconds
+network thread hitch warning: timer interval of 151 milliseconds
+server thread hitch warning: timer interval of 399 milliseconds
+sync thread hitch warning: timer interval of 374 milliseconds
+sync thread hitch warning: timer interval of 157 milliseconds
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
+[es_extended] [[32mINFO[0m] Saved 0 player(s)
